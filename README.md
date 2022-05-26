@@ -12,6 +12,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Learning](#learning)
 - [MOOCs](#moocs)
+- [Math and Physics](#math-and-physics)
 - [Development Tools](#development-tools)
 - [Blogs](#blogs)
 - [Books](#books)
@@ -68,6 +69,9 @@ For further resources related to Open Source Quantum Software Projects, please c
     - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - Same professor of the previous course, this time more focused on quantum concepts rather than math.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
+
+## Math and Physics
+- [Linear Algebra Review](https://qiskit.org/textbook/ch-appendix/linear_algebra.html) - IBM Qiskit's Linear Algebra review that is very well targeted and accessible to get the math background for basic quantum computing.
 
 ## Development Tools
 
@@ -136,6 +140,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
 - [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
 - [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
+- [Computing with Quantum Cats: From Colossus to Qubits](https://www.amazon.com/dp/1616149213) - A great book that intertwines the history, physics, and concepts of quantum computing.
+- [Quantum Computing From The Ground Up](https://www.amazon.com/dp/9814412112)- A shortish introduction to the concepts of quantum computing with some really great illustrations. Covers both computer science and quantum information science.
 
 
 ## Popular Science
